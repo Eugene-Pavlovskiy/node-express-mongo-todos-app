@@ -3,8 +3,13 @@
 - `npm install express mongoose`
 - `npm i -D nodemon`
 
-## change in package-json: `"scripts": {
+## Change in package-json: `"scripts": {
     "start": "node index",
     "dev": "nodemon index"
   }`
-## create index.js in main folder
+## Create index.js in main folder
+## To run app:
+- `npm run dev`
+## Register mongodb (data base): "https://www.mongodb.com/"
+## NPM HBS:
+- `npm i express-handlebars`
